@@ -20,34 +20,27 @@ class MasterStudent():
         self.research_field = "Spiking Neural Network, Neuromorphic Engineering, Recommender system"
 ```
 
-### Markdown
+### 实验室相关
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 已发表成果
+- [Correlation Analysis-Based Neural Network Self-Organizing Genetic Evolutionary Algorithm](https://ieeexplore.ieee.org/abstract/document/8843933): 遗传算法优化神经网络
+- [Research on learning mechanism designing for equilibrated bipolar spiking neural networks](https://link.springer.com/article/10.1007/s10462-020-09818-5): 双极性神经元平衡网络
 
-```markdown
-Syntax highlighted code block
+#### 开源项目
+- [多层SNN网络](https://github.com/Lylist/ENNs_multi-layer): SNN多层网络baseline
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 机器学习相关
+- [CCF-BDCI新闻类别预测竞赛]
+- [黑色星期五销售数据预测(kaggle比赛)](https://github.com/Lylist/2018blackfriday-salesdata-analysis)
+- [自己实现神经网络框架](https://github.com/Lylist/DL_step_by_step): 啥时候拖延症治愈能够完成这个项目啊
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lylist/lylist.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 项目相关
+- 学术论文搜索引擎: [爬虫](https://github.com/BITCS-Information-Retrieval-2020/crawler-low-levelmasterdocrawler)--[搜索](https://github.com/BITCS-Information-Retrieval-2020/search-low-levelmasterdosearch)--[前端](https://github.com/BITCS-Information-Retrieval-2020/website-low-levelmasterdowebshow)
+- [大型网络流量可视化](https://github.com/Lylist/network_visualization)
+- [基于OpenGL的赛车游戏](https://github.com/Lylist/Racing-game)
+- [基于微信小程序的二手书交易平台](https://github.com/Shannon2016/SecondHandBook)
+- [财务处系统(Delphi + SQL Server)](https://github.com/Lylist/Finance-Department-Reimbursement-System)
