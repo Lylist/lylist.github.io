@@ -32,7 +32,7 @@ class MasterStudent():
 
 
 ### 机器学习相关
-- [CCF-BDCI新闻类别预测竞赛]
+- [CCF-BDCI 新闻分类分级竞赛](https://github.com/Lylist/CCF_BDCI_News_Classification)
 - [黑色星期五销售数据预测(kaggle比赛)](https://github.com/Lylist/2018blackfriday-salesdata-analysis)
 - [自己实现神经网络框架](https://github.com/Lylist/DL_step_by_step): 啥时候拖延症治愈能够完成这个项目啊
 
