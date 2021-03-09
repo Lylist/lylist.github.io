@@ -1,8 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
+```python
+#-*- coding:utf-8 -*-
+class Lylist(Programmer, MasterStudent, ACMer):
+    def __init__(self):
+        self.name = "Yunlin Lei"
+        self.year_of_birth = "1998"
+        self.location = "Beijing or Hunan"
+        self.email = "lylist@qq.com"
 
-You can use the [editor on GitHub](https://github.com/Lylist/lylist.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+class Programmer():
+    def __init__(self):
+        self.major_language = ["Python", "C/C++", "Scala", "Java"]
+        self.technology_stack = ["Spark", "Pytorch", "NEST", "Linux"]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+class MasterStudent():
+    def __init__(self):
+        self.school = "Beijing Institute of Technology"
+        self.major = "Computer Science and Technology"
+        self.research_field = "Spiking Neural Network, Neuromorphic Engineering, Recommender system"
+```
 
 ### Markdown
 
