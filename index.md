@@ -27,7 +27,7 @@ class MasterStudent():
 #### 已发表成果
 - [Evaluation of the Effect of the Dynamic Behavior and Topology Co-Learning of Neurons and Synapses on the Small-Sample Learning Ability of Spiking Neural Network](https://www.mdpi.com/2076-3425/12/2/139): 脉冲神经网络小样本学习
 - [A memory neural system built based on spiking neural network](https://www.sciencedirect.com/science/article/pii/S0925231221002988): 脉冲神经网络仿生构建记忆系统
-- [Research on learning mechanism designing for equilibrated bipolar spiking neural networks](https://link.springer.com/article/10.1007/s10462-020-09818-5): 双极性神经元平衡网络
+- [Research on learning mechanism designing for equilibrated bipolar spiking neural networks](https://link.springer.com/article/10.1007/s10462-020-09818-5): 双极性神经元平衡脉冲神经网络
 - [Correlation Analysis-Based Neural Network Self-Organizing Genetic Evolutionary Algorithm](https://ieeexplore.ieee.org/abstract/document/8843933): 遗传算法优化神经网络
 
 
