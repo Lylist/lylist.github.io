@@ -30,6 +30,10 @@ class MasterStudent():
 - [Research on learning mechanism designing for equilibrated bipolar spiking neural networks](https://link.springer.com/article/10.1007/s10462-020-09818-5): 双极性神经元平衡脉冲神经网络
 - [Correlation Analysis-Based Neural Network Self-Organizing Genetic Evolutionary Algorithm](https://ieeexplore.ieee.org/abstract/document/8843933): 遗传算法优化神经网络
 
+#### 专利
+- [一种基于脉冲神经网络的自学习、小样本学习和迁移学习的方法与系统]()
+- [一种基于频率诱导的构建用于特征提取的脉冲神经网络的方法]()
+- [一种基于分段式渐进型脉冲神经网络进行模式识别的方法]
 
 #### 开源项目
 - [多层SNN网络](https://github.com/Lylist/ENNs_multi-layer): SNN多层网络baseline
